@@ -1,5 +1,5 @@
-# rest-command
-this is a test project about the spring shell.
+# React Application
+this is a test project about the react application.
 
 # description
-rest consol application based on spring shell.
+I'd likt to make a test code and excise typescript.
