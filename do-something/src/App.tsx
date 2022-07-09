@@ -1,6 +1,6 @@
-
+import { Button } from '@mui/material';
 import React from 'react';
-import Button from '@material-ui/core/Button';
+
 
 function App() {
   let message = 'This is test';
